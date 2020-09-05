@@ -24,6 +24,10 @@ Nessa aula nós vamos focar completamente em entender o primeiro conceito do Rea
 
 Nessa aula nós vamos falar do segundo conceito mais importante do React, as propriedades. Vamos entender como passamos valores como propriedades entre componentes e recuperar esses valores no componente que recebeu essas propriedades.
 
+## Estado e Imutabilidade<br />
+
+Finalizando o assunto dos três conceitos mais importantes do React, agora nós vamos falar sobre o estado e o conceito de imutabilidade do estado. Vamos ver como armazenar e manipular valores dentro do nosso componente do React utilizando os React Hooks, criando uma pequena funcionalidade de listagem de projetos para entender o funcionamento do estado.
+
 ## Techs
 
 - [x] react.js
