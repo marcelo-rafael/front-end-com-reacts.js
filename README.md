@@ -16,6 +16,11 @@ Na última aula falamos um pouco sobre para que serve o Babel, e nessa aula vamo
 
 Agora nessa aula nós vamos ver sobre o Webpack, para isso vamos implementar no código da nossa primeira aplicação em React a configuração do Webpack gerar o bundle da nossa aplicação configurando os loaders que são responsáveis por converter diversos tipos de arquivos como JS, CSS, JSON, arquivos de imagem, etc. Além disso vamos aprender também como habilitar o live reload da nossa aplicação.
 
+## Componentização<br />
+
+Nessa aula nós vamos focar completamente em entender o primeiro conceito do React dos três conceitos mais importantes, a componentização, que em poucas palavras é como nós separamos uma parte do nosso código para transformá-la em algo que pode ser reaproveitada quantas vezes a gente quiser em qualquer parte da nossa aplicação.
+
+
 
 ## Techs
 
