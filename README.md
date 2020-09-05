@@ -20,7 +20,9 @@ Agora nessa aula nós vamos ver sobre o Webpack, para isso vamos implementar no 
 
 Nessa aula nós vamos focar completamente em entender o primeiro conceito do React dos três conceitos mais importantes, a componentização, que em poucas palavras é como nós separamos uma parte do nosso código para transformá-la em algo que pode ser reaproveitada quantas vezes a gente quiser em qualquer parte da nossa aplicação.
 
+## Propriedades<br />
 
+Nessa aula nós vamos falar do segundo conceito mais importante do React, as propriedades. Vamos entender como passamos valores como propriedades entre componentes e recuperar esses valores no componente que recebeu essas propriedades.
 
 ## Techs
 
