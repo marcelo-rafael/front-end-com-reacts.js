@@ -12,7 +12,9 @@ Front-end com React.js
 
 Na última aula falamos um pouco sobre para que serve o Babel, e nessa aula vamos começar criando os primeiros códigos da nossa primeira aplicação em React do total zero, configurando o Babel para converter o código da nossa aplicação em um código que o Browser vai entender. Vamos entender um pouquinho sobre os loaders do Webpack.
 
+## Configurando Webpack<br />
 
+Agora nessa aula nós vamos ver sobre o Webpack, para isso vamos implementar no código da nossa primeira aplicação em React a configuração do Webpack gerar o bundle da nossa aplicação configurando os loaders que são responsáveis por converter diversos tipos de arquivos como JS, CSS, JSON, arquivos de imagem, etc. Além disso vamos aprender também como habilitar o live reload da nossa aplicação.
 
 
 ## Techs
