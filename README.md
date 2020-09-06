@@ -32,9 +32,16 @@ Finalizando o assunto dos três conceitos mais importantes do React, agora nós 
 
 Nessa aula nós vamos configurar alguns loaders do nosso Webpack para aceitar arquivos de CSS e imagens, e colocaremos em prática a estilização da nossa página de listagem de projetos dando um pouquinho de css e adicionando algumas imagens.
 
+## Listando Projetos da API<br />
+
+Agora vamos conectar a nossa aplicação front-end com o back-end que desenvolvemos no último módulo, fazendo com que a nossa página de listagem de projetos passe a salvar os dados da nossa API já desenvolvida no estado da aplicação, e exibi-los em tela.
+
 ## Techs
 
 - [x] react.js
+- [x] babel
+- [x] webpack
+
 
 
 ## Starting Dev Environment
