@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
 import './App.css';
+import ReactJs from './assets/reactjs.svg';
 
 import Header from './components/Header';
 
@@ -31,6 +32,8 @@ function App() {
     <>
 
       <Header title="Projects" />
+
+      <img src={ReactJs} alt="ReactJS" />
 
       <ul>
         {projects.map(project => <li key={project}>{project}</li>)}
