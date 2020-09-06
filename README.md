@@ -36,6 +36,10 @@ Nessa aula nós vamos configurar alguns loaders do nosso Webpack para aceitar ar
 
 Agora vamos conectar a nossa aplicação front-end com o back-end que desenvolvemos no último módulo, fazendo com que a nossa página de listagem de projetos passe a salvar os dados da nossa API já desenvolvida no estado da aplicação, e exibi-los em tela.
 
+## Cadastrando ProjetosI<br />
+
+Vamos continuar praticando com bastante código no ReactJS, vamos praticar um pouco os conceitos de estado da aplicação cadastrando novos projetos no nosso banco de dados, mantendo-os salvos na nossa aplicação conforme cadastramos.
+
 ## Techs
 
 - [x] react.js
