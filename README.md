@@ -50,11 +50,11 @@ Vamos continuar praticando com bastante código no ReactJS, vamos praticar um po
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/marcelo-rafael/back-end-com-node.js/
+$ git clone https://github.com/marcelo-rafael/front-end-com-react.js/
 ```
 
 1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3333`.<br />
+2. Run `yarn start` and access `http://localhost:8080`.<br />
 
 ## Author
 
