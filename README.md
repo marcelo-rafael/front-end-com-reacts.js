@@ -28,6 +28,10 @@ Nessa aula nós vamos falar do segundo conceito mais importante do React, as pro
 
 Finalizando o assunto dos três conceitos mais importantes do React, agora nós vamos falar sobre o estado e o conceito de imutabilidade do estado. Vamos ver como armazenar e manipular valores dentro do nosso componente do React utilizando os React Hooks, criando uma pequena funcionalidade de listagem de projetos para entender o funcionamento do estado.
 
+## Importando CSS e imagens<br />
+
+Nessa aula nós vamos configurar alguns loaders do nosso Webpack para aceitar arquivos de CSS e imagens, e colocaremos em prática a estilização da nossa página de listagem de projetos dando um pouquinho de css e adicionando algumas imagens.
+
 ## Techs
 
 - [x] react.js
